@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">GPU Rendering</string>
+    <string name="info_text" translatable="false">This app automatically disables GPU Rendering Overlays on boot or on app start.</string>
+</resources>
